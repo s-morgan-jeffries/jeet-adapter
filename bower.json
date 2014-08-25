@@ -1,0 +1,22 @@
+{
+  "name": "jeet-adapter",
+  "version": "0.0.0",
+  "homepage": "https://github.com/s-morgan-jeffries/jeet-adapter",
+  "authors": [
+    "Morgan <s.morgan.jeffries@gmail.com>"
+  ],
+  "description": "Adapter for Jeet Stylus library that uses conditional assignment to configuration variables",
+  "main": "index.styl",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jeet": "~5.3.0"
+  }
+}

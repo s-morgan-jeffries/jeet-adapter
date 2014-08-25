@@ -1,4 +1,4 @@
 jeet-adapter
 ============
 
-Adapter for Jeet Stylus library that uses conditional assignment to configuration variables
+Adapter for <a href="http://jeet.gs/">Jeet</a> Stylus library that uses conditional assignment to configuration variables.
